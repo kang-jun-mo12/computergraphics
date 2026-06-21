@@ -1,5 +1,7 @@
 ﻿# Three.js Rendering Escape Room 최종 리포트
 
+2022204061 정보융합학부 강준모
+
 ## 0. 게임 개요
 
 ![Rendering Escape Room 완료 화면](report-assets/report-cover-complete.png)
