@@ -39,7 +39,7 @@ npm run dev
 npm run build
 ```
 
-빌드 결과는 `dist/`에 생성됩니다. GitHub Pages 배포는 `.github/workflows/deploy.yml`에서 자동으로 실행됩니다.
+빌드 결과는 `dist/`에 생성됩니다. GitHub Pages에는 빌드 결과를 `gh-pages` 브랜치로 배포했습니다.
 
 ## 리포트
 
